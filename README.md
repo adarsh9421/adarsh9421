@@ -22,7 +22,7 @@ An AI-powered **student dropout prediction system** designed to identify student
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Random Forest • FastAPI • PostgreSQL
 
-🔗 [View Project](https://github.com/adarsh9421)
+🔗 [View Project](https://github.com/adarsh9421/EarlyDrop-AI.git)
 
 ---
 
